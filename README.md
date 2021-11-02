@@ -12,6 +12,14 @@ Telegram RoBot to Download Tiktok video/audio.
 👉 Download TikTok Audio
 
 
+Note:
+
+```
+If dyno of api.reiyuura.me over,
+the downloader won't work, it's api issue, 
+so need to wait for next month until the dyno to back online
+```
+
 ## Telegram Support:
 
 [![Channel](https://img.shields.io/badge/TG-Channel-30302f?style=flat&logo=telegram)](https://t.me/xTeamBots)
